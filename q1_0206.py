@@ -17,4 +17,12 @@ while j<n:
 
 print(num)
 
-#수정 필요
+"""
+def main():
+  input_s = input()
+  len_s = len(input_s)
+  front_s, back_s = input_s[:len_s//2], input_s[len_s//2:]
+
+print(sum(list(map(int, front_s)))) == sum(list(map(inst, back_s)))
+
+"""
